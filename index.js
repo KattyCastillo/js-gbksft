@@ -17,4 +17,5 @@ var objeto = {
   telefono: '9837-2683',
 };
 
+
 console.log(objeto);
